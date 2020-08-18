@@ -1,5 +1,9 @@
 ## 5 Tenedores, Restaurant App
 
+<p align="center">
+  <img src="/assets/img/5-tenedores-letras-icono-logo.png" width="100"/>
+ </p>
+
 👻 A fun project with React Native
 
 - **Contributors:**
@@ -29,4 +33,9 @@ yarn add react-native-keyboard-aware-scroll-view@~0.9.1
 yarn add lodash
 
 yarn add react-native-easy-toast@~1.2.0
+
+yarn add expo-facebook@~8.1.0 // just if you want fb login
+
+yarn add expo-permissions@~8.1.0
+yarn add expo-image-picker@~8.1.0
 ```
