@@ -22,6 +22,7 @@ export default function Modal(props) {
       overlayBackgroundColor="transparent"
       overlayStyle={styles.overlay}
       onBackdropPress={closeModal}
+      useNativeDriver={true}
     >
       {children}
     </Overlay>

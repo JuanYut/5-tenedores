@@ -32,6 +32,7 @@ export default function Loading(props) {
       windowBackgroundColor="rgba(0, 0, 0, 0.5)"
       overlayBackgroundColor="transparent"
       overlayStyle={styles.overlay}
+      useNativeDriver={true}
     >
       <View style={styles.view}>
         <ActivityIndicator size="large" color="00a680" />

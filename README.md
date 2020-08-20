@@ -38,4 +38,11 @@ yarn add expo-facebook@~8.1.0 // just if you want fb login
 
 yarn add expo-permissions@~8.1.0
 yarn add expo-image-picker@~8.1.0
+
+yarn add react-native-maps@~0.27.1
+yarn add expo-location@~8.1.0
+
+yarn add random-uuid-v4@~0.0.9
+
+yarn add base-64@~0.1.0
 ```
